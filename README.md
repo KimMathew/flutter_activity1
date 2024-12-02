@@ -1,3 +1,3 @@
 # Activity 1
 
-This project contains code for Stateless Widgets
+This project contains the code for Stateless Widgets
