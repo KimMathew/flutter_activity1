@@ -1,3 +1,3 @@
-# flutter_activity1
+# Activity 1
 
-A new Flutter project.
+This project contains code for Stateless Widgets
